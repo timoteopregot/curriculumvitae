@@ -12,6 +12,8 @@ main{
     background-color: aquamarine;
 }
 
+
+
 .head{
     background: url("/img/header.jpg");
     background-size:cover;
@@ -74,4 +76,8 @@ main{
 
 .title {
     font-size: 2rem;
+}
+
+.divcont{
+    display: flex;
 }
