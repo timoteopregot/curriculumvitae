@@ -7,7 +7,6 @@ var nac = document.getElementById('birth');
 var dir = document.getElementById('address');
 
 
-
 function fetchUser(){
   
   fetch('https://randomuser.me/api/')
@@ -44,3 +43,4 @@ function fetchUser(){
 
 
 fetchUser();
+
